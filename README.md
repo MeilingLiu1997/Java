@@ -5,3 +5,4 @@
 
 * Labs
 * Projects
+* [Course website](https://cs112-s17.github.io/syllabus.html)
